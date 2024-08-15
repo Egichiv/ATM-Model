@@ -1,0 +1,17 @@
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\bin\Debug\net7.0\Presentation.Console.deps.json
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\bin\Debug\net7.0\Presentation.Console.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\bin\Debug\net7.0\Presentation.Console.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\bin\Debug\net7.0\Application.Contracts.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\bin\Debug\net7.0\Application.Models.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\bin\Debug\net7.0\Application.Contracts.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\bin\Debug\net7.0\Application.Models.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\obj\Debug\net7.0\Presentation.Console.csproj.AssemblyReference.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\obj\Debug\net7.0\Presentation.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\obj\Debug\net7.0\Presentation.Console.AssemblyInfoInputs.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\obj\Debug\net7.0\Presentation.Console.AssemblyInfo.cs
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\obj\Debug\net7.0\Presentation.Console.csproj.CoreCompileInputs.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\obj\Debug\net7.0\Presentation.Console.csproj.CopyComplete
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\obj\Debug\net7.0\Presentation.Console.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\obj\Debug\net7.0\refint\Presentation.Console.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\obj\Debug\net7.0\Presentation.Console.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Presentation.Console\obj\Debug\net7.0\ref\Presentation.Console.dll

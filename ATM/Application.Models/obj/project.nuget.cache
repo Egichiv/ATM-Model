@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "X1W7pxAfBtTsg4RdBK1oUktK/3NlkrgdhSWD63fBaC36ocTlt8fAR8pTuEK8Lu4dN8dwDBPaVU5EX2bRp8AtUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egich\\RiderProjects\\OOP.23-24\\Egichiv\\src\\Lab5\\Application.Models\\Application.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egich\\.nuget\\packages\\sourcekit.analyzers.collections\\1.0.4\\sourcekit.analyzers.collections.1.0.4.nupkg.sha512",
+    "C:\\Users\\egich\\.nuget\\packages\\sourcekit.analyzers.enumerable\\1.0.4\\sourcekit.analyzers.enumerable.1.0.4.nupkg.sha512",
+    "C:\\Users\\egich\\.nuget\\packages\\sourcekit.analyzers.memberaccessibility\\1.0.4\\sourcekit.analyzers.memberaccessibility.1.0.4.nupkg.sha512",
+    "C:\\Users\\egich\\.nuget\\packages\\sourcekit.analyzers.nullable\\1.0.4\\sourcekit.analyzers.nullable.1.0.4.nupkg.sha512",
+    "C:\\Users\\egich\\.nuget\\packages\\sourcekit.analyzers.properties\\1.0.4\\sourcekit.analyzers.properties.1.0.4.nupkg.sha512",
+    "C:\\Users\\egich\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.507\\stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+    "C:\\Users\\egich\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.507\\stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512"
+  ],
+  "logs": []
+}

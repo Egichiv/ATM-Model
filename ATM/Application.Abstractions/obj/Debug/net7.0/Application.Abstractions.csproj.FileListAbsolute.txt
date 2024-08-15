@@ -1,0 +1,15 @@
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\bin\Debug\net7.0\Application.Abstractions.deps.json
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\bin\Debug\net7.0\Application.Abstractions.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\bin\Debug\net7.0\Application.Abstractions.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\bin\Debug\net7.0\Application.Models.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\bin\Debug\net7.0\Application.Models.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\obj\Debug\net7.0\Application.Abstractions.csproj.AssemblyReference.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\obj\Debug\net7.0\Application.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\obj\Debug\net7.0\Application.Abstractions.AssemblyInfoInputs.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\obj\Debug\net7.0\Application.Abstractions.AssemblyInfo.cs
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\obj\Debug\net7.0\Application.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\obj\Debug\net7.0\Application.Abstractions.csproj.CopyComplete
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\obj\Debug\net7.0\Application.Abstractions.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\obj\Debug\net7.0\refint\Application.Abstractions.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\obj\Debug\net7.0\Application.Abstractions.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Abstractions\obj\Debug\net7.0\ref\Application.Abstractions.dll

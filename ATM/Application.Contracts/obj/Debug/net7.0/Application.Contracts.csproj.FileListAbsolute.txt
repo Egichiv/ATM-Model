@@ -1,0 +1,15 @@
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\bin\Debug\net7.0\Application.Contracts.deps.json
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\bin\Debug\net7.0\Application.Contracts.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\bin\Debug\net7.0\Application.Contracts.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\bin\Debug\net7.0\Application.Models.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\bin\Debug\net7.0\Application.Models.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\obj\Debug\net7.0\Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\obj\Debug\net7.0\Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\obj\Debug\net7.0\Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\obj\Debug\net7.0\Application.Contracts.AssemblyInfo.cs
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\obj\Debug\net7.0\Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\obj\Debug\net7.0\Application.Contracts.csproj.CopyComplete
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\obj\Debug\net7.0\Application.Contracts.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\obj\Debug\net7.0\refint\Application.Contracts.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\obj\Debug\net7.0\Application.Contracts.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Contracts\obj\Debug\net7.0\ref\Application.Contracts.dll

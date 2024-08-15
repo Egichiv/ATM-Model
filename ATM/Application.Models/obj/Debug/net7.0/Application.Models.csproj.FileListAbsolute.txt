@@ -1,0 +1,12 @@
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Models\bin\Debug\net7.0\Application.Models.deps.json
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Models\bin\Debug\net7.0\Application.Models.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Models\bin\Debug\net7.0\Application.Models.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Models\obj\Debug\net7.0\Application.Models.csproj.AssemblyReference.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Models\obj\Debug\net7.0\Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Models\obj\Debug\net7.0\Application.Models.AssemblyInfoInputs.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Models\obj\Debug\net7.0\Application.Models.AssemblyInfo.cs
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Models\obj\Debug\net7.0\Application.Models.csproj.CoreCompileInputs.cache
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Models\obj\Debug\net7.0\Application.Models.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Models\obj\Debug\net7.0\refint\Application.Models.dll
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Models\obj\Debug\net7.0\Application.Models.pdb
+C:\Users\egich\RiderProjects\OOP.23-24\Egichiv\src\Lab5\Application.Models\obj\Debug\net7.0\ref\Application.Models.dll
